@@ -41,6 +41,14 @@ mv localize /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53
 mv sound /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app
 mv youkai /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app
 
+Android manual installation instructions:
+1) Clone/download the repo.
+2) Dowload apk editor, open it then press on "Select Apk from App and select puni, go to the files tab and replace all the folders with the same names as the ones in YWP.app from the github repo, build the app and install.
+3) Go to root directory, then `data_mirror/data_ce/null/0/com.Level5.YWP/files`.
+4) Replace the folders and files in the game directory with the counterparts from the link.
+*Note: Replace ywp_cud at your own risk! It can lead to crashes and bugs very easily.*
+5) Enjoy!
+
 FaQ:
 
 What other languages are you translating into:
