@@ -1,0 +1,42 @@
+/*
+  BULanguage.strings
+  BUAdSDK
+
+  Created by wangyanlin on 2020/4/10.
+  Copyright © 2020 bytedance. All rights reserved.
+*/
+
+// String
+
+"Click" = "Нажмите";
+"AD" = "Рекламное  объявление";
+"PlayConsumed" = "На воспроизведение будет  потрачено %.2f МБ трафика";
+"Evaluation" = "Оценка";
+"Score" = "Отзывы: %@";
+"Select" = "Выбрать";
+"Back" = "Назад";
+"Replay" = "Нажмите, чтобы повторить";
+"Continue" = "Продолжить  воспроизведение";
+"Skip" = "Пропустить";
+"Feedback" = "Отзыв";
+"FeedbackStr1" = "Спасибо за отзыв!";
+"FeedbackStr2" = "Мы будем и дальше улучшать наши услуги.";
+"FeedbackStr3" = "Вы уже оставили отзыв!";
+"FeedbackStr4" = "Пожалуйста, не отправляйте его повторно.";
+"ViewNow" = "Посмотреть";
+"Download" = "Загрузить";
+"LoadFailure" = "Ошибка загрузки.  Попробуйте снова.";
+"GetRewardAfterWatching" = "Посмотрите видео целиком, чтобы получить награду";
+"GiveUpReward" = "Покинуть";
+"ContinueWatching" = "Продолжить";
+"CanbeTurnedOffAfter" = "Можно пропустить через %d  с";
+"CanbeSkipAfter" = "Можно пропустить через %d  с";
+"Get" = "Скачать";
+"View" = "Вид";
+"ContinuePlaying" = "Продолжить  просмотр";
+"GetRewardAfterPlaying" = "Завершите просмотр, чтобы  получить награду";
+"Wan" = "10  тысяч";
+"ViewDetail" = "Вид";
+"CommitScore" = "Отзывы: %@";
+"AdsClosed" = "Объявления закрыты";
+"PrivacyPolicy" = "Политика конфиденциальности";

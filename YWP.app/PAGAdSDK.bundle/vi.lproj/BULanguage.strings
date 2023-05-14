@@ -1,0 +1,42 @@
+/*
+  BULanguage.strings
+  BUAdSDK
+
+  Created by wangyanlin on 2020/4/10.
+  Copyright © 2020 bytedance. All rights reserved.
+*/
+
+// String
+
+"Click" = "Nhấp";
+"AD" = "QUẢNG CÁO";
+"PlayConsumed" = "Bạn sẽ mất %.2f MB dữ  liệu để phát mục này";
+"Evaluation" = "Đánh giá";
+"Score" = "%@ lượt đánh giá";
+"Select" = "Chọn";
+"Back" = "Quay lại";
+"Replay" = "Nhấn để phát lại";
+"Continue" = "Tiếp tục phát";
+"Skip" = "Bỏ qua";
+"Feedback" = "Phản hồi";
+"FeedbackStr1" = "Cảm ơn bạn đã phản hồi!";
+"FeedbackStr2" = "Chúng tôi sẽ không ngừng cải thiện dịch vụ.";
+"FeedbackStr3" = "Bạn đã gửi phản hồi xong!";
+"FeedbackStr4" = "Vui lòng không gửi lại.";
+"ViewNow" = "Xem ngay";
+"Download" = "Tải xuống ngay";
+"LoadFailure" = "Không tải được. Vui lòng  thử lại.";
+"GetRewardAfterWatching" = "Xem hết video để nhận phần thưởng";
+"GiveUpReward" = "Rời đi";
+"ContinueWatching" = "Tiếp tục";
+"CanbeTurnedOffAfter" = "Bỏ qua sau %d s";
+"CanbeSkipAfter" = "Bỏ qua sau %d s";
+"Get" = "Tải";
+"View" = "Xem";
+"ContinuePlaying" = "Tiếp tục chơi";
+"GetRewardAfterPlaying" = "Chơi hết để giành phần  thưởng";
+"Wan" = "10  nghìn";
+"ViewDetail" = "Xem";
+"CommitScore" = "%@ lượt đánh giá";
+"AdsClosed" = "Quảng cáo đã đóng";
+"PrivacyPolicy" = "Chính sách quyền riêng tư";

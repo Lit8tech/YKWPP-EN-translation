@@ -1,0 +1,43 @@
+/*
+  BULanguage.strings
+  BUAdSDK
+
+  Created by wangyanlin on 2020/4/10.
+  Copyright © 2020 bytedance. All rights reserved.
+*/
+
+// String
+
+"Click" = "Clic";
+"AD" = "Anuncio";
+"PlayConsumed" = "Reproducir esto usará  %.2f MB de datos";
+"Evaluation" = "Evaluación";
+"Score" = "%@ reseñas";
+"Select" = "Seleccionar";
+"Back" = "Atrás";
+"Replay" = "Toca para reproducir";
+"Continue" = "Seguir con la  reproducción";
+"Skip" = "Omitir";
+"Feedback" = "Comentarios";
+"FeedbackStr1" = "Gracias por tus comentarios.";
+"FeedbackStr2" = "Continuaremos mejorando nuestro servicio.";
+"FeedbackStr3" = "Has enviado comentarios.";
+"FeedbackStr4" = "No los vuelvas a enviar.";
+"ViewNow" = "Ver ahora";
+"Download" = "Descargar ahora";
+"LoadFailure" = "Error en la carga.  Inténtelo de nuevo.";
+"GetRewardAfterWatching" = "Mira el vídeo completo para obtener tu recompensa";
+"GiveUpReward" = "Salir";
+"ContinueWatching" = "Reanudar";
+"CanbeTurnedOffAfter" = "Omitir después de  %d s";
+"CanbeSkipAfter" = "Omitir después de  %d s";
+"Get" = "Descargar";
+"View" = "Ver";
+"ContinuePlaying" = "Seguir con la  reproducción";
+"GetRewardAfterPlaying" = "Terminar la reproducción  para reclamar recompensas";
+"Wan" = "10";
+"ViewDetail" = "Ver";
+"CommitScore" = "%@ reseñas";
+"AdsClosed" = "Anuncios cerrados";
+"PrivacyPolicy" = "Política de privacidad";
+// Icon

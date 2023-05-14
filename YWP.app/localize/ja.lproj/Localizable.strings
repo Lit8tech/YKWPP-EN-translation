@@ -1,0 +1,357 @@
+/*  Localizable.strings
+  ywp
+
+  Created by SASAKi Satoshi on 2015/01/28.
+Ykw wibble wobble strings ported on 23/01/16 by Lit8tech.
+Translated by Shuri_Ken#8575, (N67#6873, SplitPSoup#2688 and 101Leafy#0253 from discord.
+
+*/
+"hello_label"  = "This version is in english";
+
+"foodType_riceBall" = "Rice Ball";
+"foodType_bread"    ="Bread";
+"foodType_cheapSweets" = "Candy";
+"foodType_chocobo"     = "Chocobar";
+"foodType_milk"        = "Milk";
+"foodType_juice"       = "Juice";
+"foodType_hamburger"   = "Hamburger";
+"foodType_ramen"       = "Ramen";
+"foodType_china"       = "Chinese Food";
+"foodType_begetables" = "Vegetables";
+"foodType_meet"       =  "Meat";
+"foodType_fish"       =  "Seafood";
+"foodType_sushi"      =   "Sushi";
+"foodType_curry"      = "Curry";
+"foodType_suites"     =  "Sweets";
+"foodType_oden"       =   "Oden";
+"foodType_soba"       =  "Soba";
+"foodType_snack"      =  "Snacks";
+"foodType_softcream"  = "ice Cream";
+"foodType_donuts"     = "Donuts";
+"foodType_pizza"            = "Pizza";
+"foodType_hotdog"            = "Hot Dog";
+"foodType_pasta"            = "Pasta";
+"foodType_tempura"            = "Tempura";
+"foodType_delicioustick"    = "Mega Tasty Bar";
+
+"kindType_0"        = "";
+"kindType_1"        = "Brave";
+"kindType_2"        = "Mysterious";
+"kindType_3"        = "Tough";
+"kindType_4"        = "Charming”;
+"kindType_5"        = "Heartful";
+"kindType_6"        = "Shady";
+"kindType_7"        = "Eerie";
+"kindType_8"        = "Slippery";
+"kindType_9"        = "Enma";
+"kindType_10"       = "Wicked";
+"kindType_11"       = "Wandroid";
+
+
+"foodLike_1"      =  "Will make Yo-kai warm to you a little.";
+"foodLike_2"      =  "Will make Yo-kai warm to you.";
+"foodLike_3"      =  "Will make Yo-kai warm to you a lot.";
+"foodLike_4"      =  "Will make Yo-kai warm to you a great deal.";
+
+"continue_title"        = “Continue";
+"continue_body01"       = "By consuming";
+"continue_body02"       = "Do you want to start over？";
+
+"levelLock_title"   = "Increase Level Cap";
+"levelLock_body01"  = "By consuming";
+"levelLock_body02"  = "increase Level Cap?";
+"levelLock_body03"  = "Level Cap";
+"openDoor_title"    = "Open the Door";
+"openDoor_body"     = "Use Y-Money to open the door?";
+"not_money"       = "Y-Money is not sufficient";
+"buy_money"       = "Purchase Y-Money？";
+
+"stop_retry1"        = "Spend spirit";
+"stop_retry2"       = "to restart the stage?";
+"stop_scoreAtk_retry1"       = "Do you want to Quit?";
+"event_stop_retry1"        = "Spend Y-Points to restart the stage?";
+"event_not_point"          = "Not enough Y-Points.";
+
+"stop_map_back1"        = "Quit this stage";
+"stop_map_back2"       = "and exit to the map";
+"search_tap" = "Please tap the Yo-kai you want to inspect";
+"search_foodLike_skill_max1"       = "Skill Level is Maxed out and";
+"search_foodLike_skill_max2"       = "will not accept any food.";
+
+"stop_rare_task1"        = "An Ultra Battle has appeared!";
+"stop_rare_task2"       = "It may revert back to normal.";
+"stop_rare_task3"       = "Would you still like to restart？";
+
+"stop_kimagure_map_back1"       = "Go back before continuing to play";
+"stop_kimagure_map_back2"       = "Are you sure?";
+
+
+"mission_daily_title"   = "Daily";
+"mission_normal_title"  = “Normal";
+"mission_event_title"   = "Event";
+"mission_none_text01"   = "There are no missions currently available.";
+"mission_none_text02"   = "Please wait for an event to start!";
+
+"mapwarp_daily_title"   = "Daily";
+"mapwarp_daily_title"   = "Daily";
+"mapwarp_normal_title"  = "General";
+"mapwarp_event_title"   = "Event";
+"mapwarp_none_text01"   = "There are no current event maps";
+"mapwarp_none_text02"   = "Please wait for the next event to start!";
+
+"puzzle_treasure_text"  = "You can get it after you clear the stage";
+
+"scoreAtk_extension1"       = "Use 500 Y-Money";
+"scoreAtk_extension2"       = "to extend battle by 10 seconds？";
+
+
+"tutorial_map_01_1"         = "I can feel the eeriness from around here right away!";
+"tutorial_map_01_2"         = "use the Yo-kai Watch to find out♪";
+"tutorial_map_01_02_1"      = "i knew you were there";
+"tutorial_map_01_02_2"      = "I’m angry because you woke me up while I was sleeping・・・";
+"tutorial_map_01_02_3"      = "negotiations have broken down! Let's fight!";
+"tutorial_puzzle_01_1"      = "The Yo-kai on the screen are the enemies!";
+"tutorial_puzzle_01_2"      = "Let's defeat the enemy Yo-kai!";
+"tutorial_map_02_1"         = "Jibanyan must be at the intersection in front of the fishmonger again.";
+"tutorial_map_02_2"         = "let's go there♪";
+"tutorial_puzzle_02_1"      = "He looks tougher than before！";
+"tutorial_puzzle_02_2"      = "Let me give you some tips！";
+"tutorial_puzzle_03_NO_1"   = "Whatーーーー!";
+"tutorial_puzzle_03_NO_2"   = "Don’t say that, let's be friends!";
+"tutorial_puzzle_03_OK_1"   = "You’ve befriended Jibanyan!";
+"tutorial_puzzle_03_OK_2"   = "At this pace you will befriend tons of Yo-kai♪";
+"tutorial_puzzle_03_OK_3"   = "Komasan is also somewhere in Uptown Springdale";
+"tutorial_puzzle_03_OK_4"   = "find and befriend Yo-kai!";
+"tutorial_puzzle_EX01_1"    = "Mr! You used a soultimate! That's incredible!";
+"tutorial_puzzle_EX01_2"    = "Let’s try our soultimates!";
+"tutorial_puzzle_EX02_1"    = "You pressed ‘Inspect’";
+"tutorial_puzzle_EX02_2_1"  = " as expected";
+"tutorial_puzzle_EX02_2_2"  = "Mr. is";
+"tutorial_puzzle_EX02_3"    = "Your eyes are wonderful♪";
+"tutorial_puzzle_EX02_4"    = "You can find out the enemies abilities and favorite food by inspecting the Yo-kai!";
+"tutorial_puzzle_EX02_5"    = "Giving them their favorite foods makes them more likely to befriend you.";
+"tutorial_puzzle_EX02_6"    = "You can see soultimate and such by inspecting your own Yo-kai.";
+"tutorial_puzzle_EX02_7"    = "Whis♪";
+"tutorial_menu01_1_1"       = "Thanks for becoming my friend!";
+"tutorial_menu01_1_2"       = "in menu";
+"tutorial_menu01_1_3"       = "has been added!";
+"tutorial_menu01_2"         = "Let's try it now!";
+
+"description_title_01"  = "How to play Yo-kai Watch Puni Puni";
+
+"bu_2001000"            = "Whisper";
+"bu_2001000_ex"         = "Whisper Kongming";
+"bu_2354000"            = "Moximous N";
+"bu_9000000"            = "Orcanos Lu Bu";
+
+"playerregist_00_01"    = "There's a strange vending machine here...";
+"playerregist_00_02"    = "Why not try cranking the wheel?";
+"playerregist_01_01"    = "Mwah-hah... Mwah-hah-hah-haaa!";
+"playerregist_01_02"    = "I'm Whisper, Yo-kai butler and fountain of knowledge, at your service!";
+"playerregist_01_03"    = "And since it was you who freed me, you must be my new master!";
+"playerregist_01_05"    = "Why don't you begin by telling me your name?";
+"playerregist_02_01"    = "%s, eh? Why, it's a name like no other! I love it!";
+"playerregist_02_02"    = "Yes, it's the best name I ever heard! The very best!";
+"playerregist_02_03"    = "Now, Honored %s, I have something rather special to give you.";
+"playerregist_03_01"    = "Hmm... I can't help feeling i've heard that name somewhere before...";
+"playerregist_03_02"    = "are you sure that's your real name?";
+"playerregist_04_01"    = "The <R>Yo-kai Watch</R> will allow you to see my fellow Yo-kai</R>!";
+"playerregist_04_02"    = "I think we'd better look around for some, don't you?";
+"playerregist_05_01"    = "Whisper gives you the Yo-kai Watch!";
+"playerregist_06_01"    = "%s used the Yo-kai Watch...";
+"playerregist_06_01_01"    = "%s%sThe";
+"playerregist_06_01_02"    = "using the Yo-kai Watch";
+"playerregist_06_02"    = "A Yo-kai appeared briefly, but it ran away!";
+"playerregist_06_02_01"    = "I saw a ghost for a moment";
+"playerregist_06_02_02"    = "Im gone";
+"playerregist_07_01"    = “It went that way! Toward the residential area! After it!";
+"playerregist_08_01"    = "%s... Hmm...";
+"playerregist_08_02"    = "I think you'd better choose another name, don't you?";
+"playerregist_name_01"    = "Nate";
+"playerregist_name_02"    = "Katie";
+"playerregist_input01"    = "Enter Text Here";
+"playerregist_input02_01"="WARNiNG: Please do not use your real name.";
+"playerregist_input02_02"="Once you pick a name, you won’t be able to change it.";
+"playerregist_conf01"    = "NOTE: You can change your icon later on the Settings screen.";
+"playerregist_conf02" = "icon";
+"playerregist_conf03" = "Name";
+"playerregist_conf04_01" = "NOTE: You can change your icon later";
+"playerregist_conf04_02" = "in the Settings menu.";
+
+
+"tutorial_menu_watch_01" = "ええっと…\nそうそう。　ここでは";
+"tutorial_menu_watch_02" = "<R>パーツ</R>を集めて　あたらしい\n<R>妖怪ウォッチ</R>を作れるんです！";
+"tutorial_menu_watch_03" = "Make a Yo-kai Watch は\n<R>つけかえ</R>できるみたいですね！";
+
+"tutorial_menu_watch_make_01" = "ええっと…\nそうそう。　ここでは";
+"tutorial_menu_watch_make_02" = "つくるのに必要な<R>パーツ</R>を\n確認できるみたいです。";
+"tutorial_menu_watch_make_03" = "パーツは\n<R>ステージをクリア</R>したり";
+"tutorial_menu_watch_make_04" = "<R>めずらしい妖怪</R>が<R>落としたり</R>\nするみたいなので";
+"tutorial_menu_watch_make_05" = "がんばって\nさがしてみましょう！";
+
+"tutorial_menu_watch_made_01" = "あたらしい　<R>妖怪ウォッチ</R>を\n手に入れましたね！！";
+"tutorial_menu_watch_made_02" = "<R>ふしぎな力</R>も\nあるみたいなので";
+"tutorial_menu_watch_made_03" = "あたらしいウォッチに\n<R>つけかえ</R>ちゃいましょう！";
+
+"itemlistview_01"        = "Use on who? (%d Remaining)";
+
+"presentbox_01"            = "No messages.";
+"presentbox_02_01"        = "Deleted after 30 days.";
+"presentbox_03_01"        = "You received some Spirit!";
+"presentbox_03_02"        = "You received some Friend Points! ";
+"presentbox_03_03"        = "Sent to friend!";
+"presentbox_04"            = "Present received!";
+"presentbox_05_01"        = "That Yo-kai was already at maximum Skill Level";
+"presentbox_05_02"        = "so you got something else instead!";
+"presentbox_06_01"        = "Send";
+"presentbox_07_01"        = "Claim present(s)?";
+"presentbox_07_02"        = "Claim";
+"presentbox_08_01"        = "Claim All";
+"presentbox_08_02"        = "rewards?";
+"presentbox_08_03"        = "Claim";
+"presentbox_09"            = "(inside 1h + Y-Money)";
+"presentbox_10_01"        = "Cannot carry any more.";
+"presentbox_10_02"        = "Claim to be able to use it!";
+
+"ranking_02_01"            = "Do you want to give";
+"ranking_02_02"            = "some Spirit to a friend?";
+"ranking_02_03"            ="some Spirit to a friend?";
+"ranking_03_01"            = "You sent a gift";
+"ranking_03_02"            = "to your friend!";
+"ranking_04_01"            = "Friend";
+"ranking_04_02"            = "Score";
+"ranking_05_01"            = "All";
+"ranking_05_02"            = "Score";
+"ranking_06"            = "Friend";
+"ranking_06_02"            = "Records";
+
+"event_ranking_04_01"     = "Friend";
+"event_ranking_04_02"     = "Amount of missions";
+"event_ranking_05_01"     = "ぜんたい";
+"event_ranking_05_02"     = "討伐数";
+"event_ranking_06"        = "ごほうび";
+"event_ranking_reward_01"        = "Icon";
+"event_ranking_reward_02"        = "新商品";
+"event_ranking_reward_03"        = "よばれかた";
+
+"drive_tab_friend_1"    = "Friend";
+"drive_tab_friend_2"    = "Ranking";
+"drive_tab_all_1"       = "ぜんたい";
+"drive_tab_all_2"       = "Ranking";
+"drive_tab_reward_1"    = "Ranking ";
+"drive_tab_reward_2"    = "ごほうび";
+
+"scoreatk_week_result_01"   = "Participation in Score Attack";
+"scoreatk_week_result_02"   = "ともだち<R>%d人</R>中";
+"scoreatk_week_result_03"   = "ごほうびはゆうびんに届きます";
+"scoreatk_week_result_04"   = "なし";
+"scoreatk_week_result_05"   = "一部ごほうびはゆうびんに届きます";
+
+"purchase_DisablePurchaseForDevice_message_iOS"         = "アプリ内課金の設定が 無効になっています";
+"purchase_DisablePurchaseForDevice_message_Android"     = "アプリ内課金が使用できません Google Playのバージョンを 確認してください";
+
+"scoreatk_week_ranking_whisper_01"  = "%sに 負けていますよ！";
+"scoreatk_week_ranking_whisper_02"  = "今は１位ですが抜かれないように 気をつけましょう！";
+"scoreatk_week_ranking_whisper_03"  = "おともだちがいると ごほうびがアップするので";
+"scoreatk_week_ranking_whisper_04"  = "おともだちを作りましょう！";
+
+"itemscene_01"            = "アイテムせつめい";
+"itemscene_02_01"        = "All";
+"itemscene_02_02"        = "Food";
+"itemscene_02_03"        = "どうぐ";
+
+"shopscene_01"            = "アイテムせつめい";
+"shopscene_02_01"        = "All";
+"shopscene_02_02"        = "Food";
+"shopscene_02_03"        = "どうぐ";
+"shopscene_03_01"        = "いくつ　買いますか？";
+"shopscene_03_02"        = "ぜんぶで";
+"shopscene_04_01"        = "%dコで";
+"shopscene_04_02"        = "%d匹で";
+"shopscene_04_03"        = "%dyになります。";
+"shopscene_04_04"        = "よろしいですか？";
+"shopscene_05_01"        = "%dコ買いました！";
+"shopscene_05_02"        = "%d匹買いました！";
+
+"unionscene_01"            = "Fusion was successful!";
+"unionscene_02_01"        = "That Yo-kai can't be fused";
+"unionscene_02_02"        = "as the Skill Level is already";
+"unionscene_02_03"        = "at max.";
+"unionscene_02_04"      = "限界突破レベルが最大のため";
+"unionscene_03_01"        = "All";
+"unionscene_03_02"        = "Yo-kai";
+"unionscene_03_03"        = "item";
+"unionscene_04_01"        = "item Description";
+"unionscene_04_02"        = "Yo-kai Details";
+"unionscene_05_01"        = "Place Yo-kai or items in the boxes";
+"unionscene_05_02"        = "below to fuse them together!";
+
+"serialcode_01"            = "ここに入力";
+"serialcode_02"            = "ひみつのワード入力";
+"serialcode_03"            = "ひみつのワードを入力してください";
+
+"onegai_01"                = "That Yo-kai doesn’t exist";
+"onegai_02_01"            = "お互いに";
+"onegai_02_02"            = "1 Spirit acquired";
+"onegai_02_03"            = "もらえるよ！";
+"onegai_03_01"            = "ひとだまをおねだりする";
+"onegai_03_02"            = "メッセージを送りますか？";
+"onegai_03_03"            = "%sに";
+
+"qrcode_01"             = "Looking for a QR Code";
+"qrcode_02_01"          = "Read a QR code";
+"qrcode_02_02"          = "The camera could not read the QR code";
+"qrcode_02_03"          = "正常に処理できませんでした。 再度お試しください。";
+"qrcode_02_04"          = "正常に処理できませんでした。 再度お試しください。";
+
+"qrinfo_01"                = "じぶんのじょうほう";
+"qrinfo_02_01"            = "とうろくしたメダルの数";
+"qrinfo_02_02"            = "とうろく数";
+"qrinfo_03_01"            = "てもちのメダルポイント";
+"qrinfo_03_02"            = "Medal";
+"qrinfo_03_03"            = "Point";
+
+"missionreward_01_01"    = "新商品「%s」";
+"missionreward_01_02"    = "ともだち人数上限開放";
+"missionreward_01_03"    = "よばれかた「%s」";
+"missionreward_02_01"    = "ともだち人数上限開放";
+"missionreward_03_01"    = "%sを%dコ手に入れた！";
+"missionreward_03_02"    = "ひとだまを%dコ手に入れた！";
+"missionreward_03_03"    = "ショップに%sが追加された！";
+"missionreward_03_04"    = "ともだちにできる人数が%d人増えた！";
+"missionreward_03_05"    = "%sの アイコンを手に入れた！";
+"missionreward_03_06"    = "よばれかた「%s」が追加された！";
+"missionreward_03_07"    = "%sを%dpt手に入れた！";
+"missionreward_03_08"    = "%sを %dコ手に入れた！";
+"missionreward_04_01"    = "を達成しました！";
+
+
+"start_ui_l5id_connect02_01" = "データ連動";
+"start_ui_l5id_connect02_02" = "<R>すぐにゲームを</R>";
+"start_ui_l5id_connect02_03" = "<R>はじめたい</R>";
+"start_ui_l5id_connect02_04" = "場合はこちら";
+"start_ui_l5id_connect02_05" = "機種変更などで";
+"start_ui_l5id_connect02_06" = "<R>データひきつぎ</R>の";
+"start_ui_l5id_connect02_07" = "場合はこちら";
+"start_ui_l5id_connect02_08" = "<R>※あとからデータ連動をすることもできます</R>";
+"start_ui_l5id_connect02_09" = "既に連動済みです";
+
+
+"teamevent_state01_01"  = "The match is over！";
+"teamevent_state01_02"  = "we are tallying match results";
+"teamevent_state01_03"  = "hold on！";
+"teamevent_state02_01"  = "Wait until the next match starts";
+"teamevent_state03_01"  = "Event finished";
+"teamevent_state03_02"  = "please wait for our next event";
+
+"marbles_deck_textname" = "じゅんばん";
+"marbles_pause_retry2"  = "Do you want to quit?";
+
+"drive_result_receipt_title01" = "Special Reward";
+"drive_result_receipt_desc01"  = You have claimed all available rewards!";
+
+"play_error_for_forbidden_dialog_title" = "Clear the play conditions";
+"play_error_for_forbidden_on_kind_dialog_title" = "Yo-kai that don’t meet the play conditions are included in the Temochi event.";
+
+"event_hpatk_new_youkai"      = "The Seven Gods of Fortune have descended!";
+

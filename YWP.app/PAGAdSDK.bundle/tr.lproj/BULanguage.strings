@@ -1,0 +1,43 @@
+/* 
+  BULanguage.strings
+  Pods
+
+  Created by ByteDance on 2022/4/27.
+  
+*/
+
+// String
+
+"Click" = "Click";
+"AD" = "AD";
+"PlayConsumed" = "%.2fMB traffic will be consumed if you play it";
+"Evaluation" = "Evaluation";
+"Score" = "%@ inceleme";
+"Select" = "Seç";
+"Wan" = "";
+"Back" = "Geri";
+"Replay" = "Tekrar oynatmak için dokunun";
+"Continue" = "Continue to play";
+"Skip" = "Atla";
+"Feedback" = "Geri Bildirim";
+"FeedbackStr1" = "Geri bildiriminiz için teşekkürler!";
+"FeedbackStr2" = "Hizmetimizi iyileştirmeye devam edeceğiz.";
+"FeedbackStr3" = "Geri bildirim gönderdiniz!";
+"FeedbackStr4" = "Lütfen tekrar göndermeyin.";
+"ViewNow" = "Şimdi Görüntüle";
+"Download" = "Hemen İndir";
+"LoadFailure" = "Failed to load, and click to try again";
+"GetRewardAfterWatching" = "Ödülünüzü talep etmek için videonun tamamını izleyin";
+"GiveUpReward" = "Ayrıl";
+"ContinueWatching" = "Devam Et";
+"CanbeTurnedOffAfter" = "Skip after %ds";
+"CanbeSkipAfter" = "Skip after %ds";
+"Get" = "Get";
+"View" = "View";
+"ContinuePlaying" = "Keep on";
+"GetRewardAfterPlaying" = "Finish playing to get rewards!";
+"ViewDetail" = "View";
+"CommitScore" = "%@ inceleme";
+"AdsClosed" = "Ads Closed";
+"PrivacyPolicy" = "Gizlilik Politikası";
+// Icon

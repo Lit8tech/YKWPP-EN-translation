@@ -1,0 +1,43 @@
+/*
+  BULanguage.strings
+  BUAdSDK
+
+  Created by wangyanlin on 2020/4/10.
+  Copyright © 2020 bytedance. All rights reserved.
+*/
+
+// String
+
+"Click" = "Klik";
+"AD" = "IKLAN";
+"PlayConsumed" = "Memutar ini akan  menghabiskan data %.2f MB";
+"Evaluation" = "Evaluasi";
+"Score" = "%@ ulasan";
+"Select" = "Pilih";
+"Back" = "Kembali";
+"Replay" = "Ketuk untuk memutar ulang";
+"Continue" = "Lanjut memutar";
+"Skip" = "Lewati";
+"Feedback" = "Masukan";
+"FeedbackStr1" = "Terima kasih atas masukannya!";
+"FeedbackStr2" = "Kami akan terus meningkatkan layanan kami.";
+"FeedbackStr3" = "Anda sudah mengirim masukan!";
+"FeedbackStr4" = "Jangan kirim lagi.";
+"ViewNow" = "Lihat Sekarang";
+"Download" = "Unduh Sekarang";
+"LoadFailure" = "Gagal memuat. Silakan  coba lagi.";
+"GetRewardAfterWatching" = "Selesaikan video untuk mengeklaim reward Anda";
+"GiveUpReward" = "Keluar";
+"ContinueWatching" = "Lanjutkan";
+"CanbeTurnedOffAfter" = "Lewati setelah %d  detik";
+"CanbeSkipAfter" = "Lewati setelah %d  detik";
+"Get" = "Unduh";
+"View" = "Lihat";
+"ContinuePlaying" = "Lanjut memutar";
+"GetRewardAfterPlaying" = "Selesaikan pemutaran  untuk mendapatkan reward";
+"Wan" = "10  ribu";
+"ViewDetail" = "Lihat";
+"CommitScore" = "%@ ulasan";
+"AdsClosed" = "Iklan ditutup";
+"PrivacyPolicy" = "Kebijakan Privasi";
+// Icon

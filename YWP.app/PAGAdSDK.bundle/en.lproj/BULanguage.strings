@@ -1,0 +1,43 @@
+/* 
+  BULanguage.strings
+  BUAdSDK
+
+  Created by 李盛 on 2019/1/7.
+  Copyright © 2019 bytedance. All rights reserved.
+*/
+
+// String
+
+"Click" = "Click";
+"AD" = "AD";
+"PlayConsumed" = "%.2fMB traffic will be consumed if you play it";
+"Evaluation" = "Evaluation";
+"Score" = "%@ reviews";
+"Select" = "Select";
+"Wan" = "";//英文逻辑不一样，为空就好
+"Back" = "Back";
+"Replay" = "Tap to replay";
+"Continue" = "Continue to play";
+"Skip" = "Skip";
+"Feedback" = "Feedback";
+"FeedbackStr1" = "Thanks for your feedback!";
+"FeedbackStr2" = "We'll continue to improve our service.";
+"FeedbackStr3" = "You've submitted feedback!";
+"FeedbackStr4" = "Please don't submit again.";
+"ViewNow" = "View now";
+"Download" = "Download Now";
+"LoadFailure" = "Failed to load, and click to try again";
+"GetRewardAfterWatching" = "Watch the entire video to claim your reward";
+"GiveUpReward" = "Leave";
+"ContinueWatching" = "Resume";
+"CanbeTurnedOffAfter" = "Skip after %ds";
+"CanbeSkipAfter" = "Skip after %ds";
+"Get" = "Get";
+"View" = "View";
+"ContinuePlaying" = "Keep on";
+"GetRewardAfterPlaying" = "Finish playing to get rewards!";
+"ViewDetail" = "View";
+"CommitScore" = "%@ reviews";
+"AdsClosed" = "Ads Closed";
+"PrivacyPolicy" = "Privacy Policy";
+// Icon
