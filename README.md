@@ -1,17 +1,28 @@
-# puni-puni-EN-translation
-An English translation for the popular Japanese mobile game Yo-kai Watch Puni Puni
+# Yo-Kai Watch Puni Puni English Translation 
 
-Created BY:
+An English translation for the popular Japanese mobile game, Yo-kai Watch Puni Puni.
+
+
+Created by:
+
 Lit8tech (Creator, former lead android developer, wibble wobble text porter, lead iOS developer)
+
 Shuri-ken (left, former text translator)
+
 Split-PS-Soup (left, former text translator)
+
 101Leafy (left, former text translator)
-N(67 (fired, former "text translator")
+
+(N67 (fired, former "text translator")
+
 Hasslehoncho (text translator)
+
 Math-kk (Image translator)
+
 Woganog (Lead android developer, wibble wobble asset porter)
 
-Installation Instructions for CMD-IOS version:
+
+# Installation Instructions for CMD-IOS version:
 
 Simply open a terminal app on your jailbroken idevice or use ssh and type these commands
 
@@ -41,9 +52,10 @@ mv localize /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53
 mv sound /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app
 mv youkai /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app
 
-Android manual installation instructions:
+# Android root installation instructions:
+
 1) Clone/download the repo.
-2) Dowload apk editor, open it then press on "Select Apk from App and select puni, go to the files tab and replace all the folders with the same names as the ones in YWP.app from the github repo, build the app and install.
+2) Dowload apk editor, open it then click on "Select Apk from App and select puni, go to the files tab and replace all the folders with the same names as the ones in YWP.app from the github repo, build the app and install.
 3) Go to root directory, then `data_mirror/data_ce/null/0/com.Level5.YWP/files`.
 4) Replace the folders and files in the game directory with the counterparts from the link.
 *Note: Replace ywp_cud at your own risk! It can lead to crashes and bugs very easily.*
