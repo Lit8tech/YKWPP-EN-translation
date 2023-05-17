@@ -39,13 +39,13 @@ rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201
 
 # FaQ:
 
-What other languages are you translating into:
+What other languages are you translating into?:
 
 So these are the languages we are translating into
 English, French, German, Spanish also after English translation is fully done Russian and Ukrainian 
 But rn we are practically only focusing on English, we just have people already translating bits and pieces in the other languages, but since there is no known dump of the other languages download files as of know, so even when we start fully working on those translations, it will take way longer to complete than the English one.
 
-What tools are you using to translate (like to open puni's files):
+What tools are you using to translate (to open puni's files)?:
 
 Pngs and .strings (which is a type of text file) are  universal file types and not l5 or Nintendo specific and most of the other files we don’t need to edit but there are cud files (which are text files).
 We know .cud files are possible to edit but no one will tell us because they can also be used for cheating as they also contain settings that you can edit for cheating purposes
