@@ -61,14 +61,16 @@ mv youkai /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F5321
 *Note: Replace ywp_cud at your own risk! It can lead to crashes and bugs very easily.*
 5) Enjoy!
 
-FaQ:
+# FaQ:
 
 What other languages are you translating into:
+
 So these are the languages we are translating into
 English, French, German, Spanish also after English translation is fully done Russian and Ukrainian 
 But rn we are practically only focusing on English, we just have people already translating bits and pieces in the other languages, but since there is no known dump of the other languages download files as of know, so even when we start fully working on those translations, it will take way longer to complete than the English one.
 
 What tools are you using to translate (like to open puni's files):
+
 Pngs and .strings (which is a type of text file) are  universal file types and not l5 or Nintendo specific and most of the other files we don’t need to edit but there are cud files (which are text files).
 We know .cud files are possible to edit but no one will tell us because they can also be used for cheating as they also contain settings that you can edit for cheating purposes
 We can also transfer cuds from wibwob but those are missing strings compared to the puni ones since puni is newer and and some break the game
