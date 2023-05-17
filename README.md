@@ -24,33 +24,9 @@ Woganog (Lead android developer, wibble wobble asset porter)
 
 # Installation Instructions for CMD-IOS version:
 
-Simply open a terminal app on your jailbroken idevice or use ssh and type these commands
+Simply open a terminal app on your jailbroken idevice or use ssh and type this command (also make sure that you have root privileges):
 
-sudo
-rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches/movie
-rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches/image
-rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches/skill
-rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches/ywp_cud
-rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/AppLovinSDKResources.bundle
-rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/PAGAdSDK.bundle
-rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/image
-rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/localize
-rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/movie
-rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/sound
-rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/youkai
-git clone https://github.com/Lit8tech/puni-puni-EN-translation.git (edited)
-cd puni-puni-EN-translation
-mv movie /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches
-mv image /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches
-mv skill /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches
-mv ywp_cud /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches
-cd YWP.app
-mv AppLovinSDKResources.bundle /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app
-mv PAGAdSDK.bundle /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app
-mv image /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app
-mv localize /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app
-mv sound /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app
-mv youkai /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app
+rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches/movie && rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches/image && rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches/skill && rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches/ywp_cud && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/AppLovinSDKResources.bundle && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/PAGAdSDK.bundle && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/image && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/localize && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/movie && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/sound && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/youkai && git clone https://github.com/Lit8tech/puni-puni-EN-translation.git && cd puni-puni-EN-translation && mv movie /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches && mv image /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches && mv skill /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches && mv ywp_cud /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches && cd YWP.app && mv AppLovinSDKResources.bundle /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app && mv PAGAdSDK.bundle /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app && mv image /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app && mv localize /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app && mv movie /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app && mv sound /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app && mv youkai /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app
 
 # Android root installation instructions:
 
