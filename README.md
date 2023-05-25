@@ -7,6 +7,12 @@ Created by:
 
 Lit8tech (Creator, former lead android developer, wibble wobble text porter, lead iOS developer)
 
+Woganog (Lead android developer, wibble wobble asset porter)
+
+Hasslehoncho (text translator)
+
+Math-kk (Image translator)
+
 Shuri-ken (left, former text translator)
 
 Split-PS-Soup (left, former text translator)
@@ -15,11 +21,9 @@ Split-PS-Soup (left, former text translator)
 
 (N67 (fired, former "text translator")
 
-Hasslehoncho (text translator)
 
-Math-kk (Image translator)
 
-Woganog (Lead android developer, wibble wobble asset porter)
+
 
 
 # Installation Instructions for CMD-IOS version:
@@ -30,10 +34,10 @@ rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201
 
 # Android root installation instructions:
 
-1) Clone/download the repo.
-2) Dowload apk editor, open it then click on "Select Apk from App" and select Puni Puni, then press on the files tab and replace all the folders with the same names as the ones in YWP.app from the github repo, build the app and install.
-3) Go to root directory, then `data_mirror/data_ce/null/0/com.Level5.YWP/files`.
-4) Replace the folders and files in the game directory with the counterparts from the link.
+1) Code -> Download ZIP and extract it.
+3) Dowload apk editor, open it then click on "Select Apk from App" and select Puni Puni, then press on the files tab and replace all the folders with the same names as the ones in YWP.app from the github repo, build the app and install.
+4) Go to root directory, then `data_mirror/data_ce/null/0/com.Level5.YWP/files`.
+5) Replace the folders and files in the game directory with the counterparts from the link.
 *Note: Replace ywp_cud at your own risk! It can lead to crashes and bugs very easily.*
 5) Enjoy!
 
