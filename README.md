@@ -11,8 +11,6 @@ Woganog (Lead android developer, wibble wobble asset porter)
 
 Komazura/SuperTavor (Android developer, non-root creator)
 
-Hasslehoncho (text translator)
-
 Math-kk (Image translator)
 
 Shuri-ken (left, former text translator)
