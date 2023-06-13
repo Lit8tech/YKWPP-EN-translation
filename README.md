@@ -5,7 +5,7 @@ An English translation for the popular Japanese mobile game, Yo-kai Watch Puni P
 
 # Created by:
 
-Lit8tech (Creator, former lead android developer, wibble wobble text porter, lead iOS developer)
+Lit8tech (Creator, former lead android developer, wibble wobble text porter, lead iOS developer, jailed patcher developer)
 
 Woganog (Lead android developer, wibble wobble asset porter)
 
@@ -13,13 +13,9 @@ Komazura/SuperTavor (Android developer, non-root creator)
 
 Math-kk (Image translator)
 
-Shuri-ken (left, former text translator)
-
 Split-PS-Soup (left, former text translator)
 
 101Leafy (left, former text translator)
-
-(N67 (fired, former "text translator", secretly used google translate)
 
 
 
