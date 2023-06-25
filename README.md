@@ -44,6 +44,6 @@ rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201
 What other languages are you translating into?:
 
 The languages we are translating into are
-English, French, German, Spanish and a demo of a Chinese version.. But after English translation is fully done we will also do Russian and Ukrainian 
+English, French, German, Spanish and a demo of a Chinese version. But after English translation is fully done we will also do Russian and Ukrainian 
 But right now we are practically only focusing on English, we just have people already translating bits and pieces in the other languages, but since there is no known dump of the other languages download files as of know, so even when we start fully working on those translations, it will take way longer to complete than the English one.
 
