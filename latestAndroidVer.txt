@@ -1,8 +1,1 @@
-
-2/7/23
-First major release coming july 11th, support for unroot and more
-
-
-14/05/23
-beta release for both iOS and Android, contains all text, images, vidoes and sounds from wibwob have been ported.
-Also contains some custom translated text and images.
+1.0.0
