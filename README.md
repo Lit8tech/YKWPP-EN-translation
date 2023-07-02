@@ -13,7 +13,7 @@ The iOS version is still in beta, and only works with jailbroken devices at the 
 
 # How to NOT lose your acccount when installing the Android version
 
-the android verison wipes all data from the application, so you just need to be connected to your L5ID on your vanilla game and reconnect to it once the mod is installed. When updating the mod, the app data will not be wiped, so this is only for first time users.
+### the android verison wipes all data from the application, so you just need to be connected to your L5ID on your vanilla game and reconnect to it once the mod is installed. When updating the mod, the app data will not be wiped, so this is only for first time users.
 
 
 # FaQ:
