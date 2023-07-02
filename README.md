@@ -1,26 +1,12 @@
-We now have a website! https://www.punitranslation.com/
 
 # Yo-Kai Watch Puni Puni English Translation 
 
 An English translation for the popular Japanese mobile game, Yo-kai Watch Puni Puni.
 
 
-# Created by:
+## How do I Install This??
 
-Lit 8 (Creator, Owner, former lead android developer, wibble wobble text porter, lead iOS developer, semi-jailed patcher developer, jailbreaked patcher developer)
-
-Woganog (Lead android developer, wibble wobble asset porter)
-
-Komazura/SuperTavor (Android developer, non-root developer, encryption decrypter)
-
-Math-kk (Image translator)
-
-Eclip5e (Text translator, encryption decrypter)
-
-Split-PS-Soup (left, former text translator)
-
-101Leafy (left, former text translator)
-
+For Android, installing the mod is a matter of uninstalling Puni from your phone and grabbing the [latest moddeed apk from our site] (https://www.punitranslation.com/downloads/android).
 
 
 
