@@ -7,7 +7,7 @@ An English translation for the popular Japanese mobile game, Yo-kai Watch Puni P
 
 # Created by:
 
-Lit8tech (Creator, Owner, former lead android developer, wibble wobble text porter, lead iOS developer, semi-jailed patcher developer, jailbreaked patcher developer)
+Lit 8 (Creator, Owner, former lead android developer, wibble wobble text porter, lead iOS developer, semi-jailed patcher developer, jailbreaked patcher developer)
 
 Woganog (Lead android developer, wibble wobble asset porter)
 
