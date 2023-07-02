@@ -6,7 +6,7 @@ An English translation for the popular Japanese mobile game, Yo-kai Watch Puni P
 
 ## How do I Install This??
 
-For Android, installing the mod is a matter of uninstalling Puni from your phone and grabbing the [latest moddeed apk from our site] (https://www.punitranslation.com/downloads/android).
+For Android, installing the mod is a matter of uninstalling Puni from your phone and grabbing the [latest moddeed apk from our site](https://www.punitranslation.com/downloads/android).
 
 
 
