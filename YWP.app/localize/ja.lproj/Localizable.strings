@@ -447,8 +447,8 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "drive_result_receipt_title01" = "Special Reward";
 "drive_result_receipt_desc01"  = "You have claimed all available rewards!";
 
-"play_error_for_forbidden_dialog_title" = "Please accept the terms and conditions.";
+"play_error_for_forbidden_dialog_title" = "Playing conditions";
 
-"play_error_for_forbidden_on_kind_dialog_title" = "You have to accept the terms and conditions to be able to play Yo-kai Watch!";
+"play_error_for_forbidden_on_kind_dialog_title" = "The Yo-kai on your team don't meet the conditions!";
 
 "event_hpatk_new_youkai"      = "The Seven Gods of Fortune have descended!";
