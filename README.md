@@ -1,6 +1,6 @@
 
 # Yo-Kai Watch Puni Puni English Translation 
-
+Note: The change in file structure is temporary for compatibilaty with the beta patcher, as soon as testing is done the it will be reverted to how it was
 An English translation for the popular Japanese mobile game, Yo-kai Watch Puni Puni.
 ![Amazing logo made by Math_kk](https://i.imgur.com/39kA5rB.png)
 
