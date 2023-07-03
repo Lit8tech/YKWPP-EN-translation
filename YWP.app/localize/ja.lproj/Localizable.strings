@@ -55,7 +55,7 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "foodLike_4"      =  "Will make Yo-kai like you a great deal.";
 
 "continue_title"        = “Continue";
-"continue_body01"       = "By consuming";
+"continue_body01"       = " by consuming";
 "continue_body02"       = "Do you want to start over？";
 
 "levelLock_title"   = "Increase Level Cap";
@@ -74,7 +74,7 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "event_not_point"          = "Not enough Y-Points.";
 
 "stop_map_back1"        = "Quit this stage";
-"stop_map_back2"       = "and exit to the map";
+"stop_map_back2"       = "and exit to the map?";
 "search_tap" = "Please tap the Yo-kai you want to inspect";
 "search_foodLike_skill_max1"       = "Skill Level is Maxed out and";
 "search_foodLike_skill_max2"       = "will not accept any food.";
@@ -88,7 +88,7 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 
 
 "mission_daily_title"   = "Daily";
-"mission_normal_title"  = “Normal";
+"mission_normal_title"  = “General";
 "mission_event_title"   = "Event";
 "mission_none_text01"   = "There are no missions currently available.";
 "mission_none_text02"   = "Please wait for an event to start!";
@@ -100,7 +100,7 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "mapwarp_none_text01"   = "No map in progress found!";
 "mapwarp_none_text02"   = "Loading session, please wait!";
 
-"puzzle_treasure_text"  = "Stage clear 後獲得できるよ";
+"puzzle_treasure_text"  = "Stage can be completed later.";
 
 "scoreAtk_extension1"       = "Use 500 Y-Money";
 "scoreAtk_extension2"       = "and extend by 10 seconds？";
@@ -109,7 +109,7 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "tutorial_map_01_1"         = "I can sense a\nYo-kai around\nhere!";
 "tutorial_map_01_2"         = "Use the Yo-kai\nWatch to search\nand find\nYo-kai! Whis ♪";
 "tutorial_map_01_02_1"      = "I knew you\ncould do it!";
-"tutorial_map_01_02_2"      = "寝ているところを起こされて何か怒っていますね・・・";
+"tutorial_map_01_02_2"      = "It was sleeping, waking it up made it mad!";
 "tutorial_map_01_02_3"      = "No sense in\nreasoning,\nlets battle!";
 "tutorial_puzzle_01_1"      = "The Yo-kai\nshown on screen\nis your enemy!";
 "tutorial_puzzle_01_2"      = "Let’s beat the\nenemy and\nfinish this!";
@@ -135,7 +135,7 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "tutorial_puzzle_EX02_7"    = "Whis ♪";
 "tutorial_menu01_1_1"       = "Thanks to your\nnew friends";
 "tutorial_menu01_1_2"       = "To Menu";
-"tutorial_menu01_1_3"       = " has been added!が追加されましたよ！";
+"tutorial_menu01_1_3"       = " has been added!";
 "tutorial_menu01_2"         = "Use it right\nnow, Whis!";
 
 "description_title_01"  = "How to play Yo-kai Watch Puni Puni";
@@ -158,7 +158,7 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "playerregist_03_02"	= "Are you sure\nthat's your\nreal name?";
 "playerregist_04_01"	= "The <R>Yo-kai\nWatch</R> will allow\nyou to see my\nfellow <R>Yo-kai</R>!";
 "playerregist_04_02"	= "I think we'd\nbetter look\naround for\nsome, don't\nyou?";
-"playerregist_05_01"	= "Whisper gives you the Yo-kai Watch!";
+"playerregist_05_01"	= "Yo-kai Watch received!";
 "playerregist_06_01"	= "%s used theYo-kai Watch...";
 "playerregist_06_01_01"	= "%s%sは";
 "playerregist_06_01_02"	= "妖怪ウォッチを使ってみた。";
@@ -173,11 +173,11 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "playerregist_input01"	= "Enter Text Here";
 "playerregist_input02_01"="WARNING: Please do not use your\nreal name.";
 "playerregist_input02_02"="Once you pick a name,\nyou won’t be able to change it.";
-"playerregist_conf01"	= "NOTE: You can change your icon later\nin the Settings.";
+"playerregist_conf01"	= "NOTE: You can change your icon later\nin the settings.";
 "playerregist_conf02" = "Icon";
 "playerregist_conf03" = "Name";
 "playerregist_conf04_01" = "NOTE: You can change your icon later";
-"playerregist_conf04_02" = "on the Settings screen.";
+"playerregist_conf04_02" = "on the settings screen.";
 
 
 "tutorial_menu_watch_map_01" = "熱いガッツを　もっているな！";
@@ -325,7 +325,7 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "event_ranking_04_01"     = "Friend";
 "event_ranking_04_02"     = "Amount of missions";
 "event_ranking_05_01"     = "Global";
-"event_ranking_05_02"     = "討伐数";
+"event_ranking_05_02"     = "Conquest";
 "event_ranking_06"        = "Reward";
 "event_ranking_reward_01"        = "Icon";
 "event_ranking_reward_02"        = "New Item";
@@ -364,10 +364,10 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "shopscene_03_01"		= "How many would you like to buy?";
 "shopscene_03_02"		= "All";
 "shopscene_04_01"		= "%dx";
-"shopscene_04_02"		= "%dxで";
+"shopscene_04_02"		= "%dx";
 "shopscene_04_03"		= "%dyになります。";
 "shopscene_04_04"		= "Is this ok?";
-"shopscene_05_01"		= "You bought %dx!;
+"shopscene_05_01"		= "You bought %dx!";
 "shopscene_05_02"		= "You bought %dx!";
 
 "unionscene_01"			= "Fusion was successful!";
@@ -387,10 +387,10 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "serialcode_02"			= "Input password";
 "serialcode_03"			= "Please enter password";
 
-"onegai_01"				= "That Yo-kai doesn’t exist";
+"onegai_01"				= "There are no Yo-kai";
 "onegai_02_01"			= "お互いに";
-"onegai_02_02"			= "1 Spirit acquired";
-"onegai_02_03"			= "Give it to me!";
+"onegai_02_02"			= "1 stamina";
+"onegai_02_03"			= "received!";
 "onegai_03_01"			= "ひとだまをおねだりする";
 "onegai_03_02"			= "Message sent?";
 "onegai_03_03"			= "%sに";
@@ -403,24 +403,24 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 
 "qrinfo_01"				= "My Info";
 "qrinfo_02_01"			= "Registered Medals";
-"qrinfo_02_02"			= "Registrations とうろく数";
+"qrinfo_02_02"			= "Registrations";
 "qrinfo_03_01"			= "Your Points";
 "qrinfo_03_02"			= "Medal";
 "qrinfo_03_03"			= "Point";
 
 "missionreward_01_01"	= "New Item ‘%s’";
-"missionreward_01_02"	= "ともだち人数上限開放";
+"missionreward_01_02"	= "Your friend limit has been increased!";
 "missionreward_01_03"	= "よばれかた「%s」";
-"missionreward_02_01"	= "ともだち人数上限開放";
-"missionreward_03_01"	= "%sを%dコ手に入れた！";
-"missionreward_03_02"	= "ひとだまを%dコ手に入れた！";
-"missionreward_03_03"	= "ショップに%sが追加された！";
-"missionreward_03_04"	= "ともだちにできる人数が%d人増えた！";
-"missionreward_03_05"	= "%sの アイコンを手に入れた！";
+"missionreward_02_01"	= "Your friend limit has been increased!";
+"missionreward_03_01"	= "You received %d %s!";
+"missionreward_03_02"	= "You received %d stamina!";
+"missionreward_03_03"	= "%s has been added to the shop!";
+"missionreward_03_04"	= "Your friend limit has been increased by %d slots!";
+"missionreward_03_05"	= "You received %s’s icon!";
 "missionreward_03_06"	= "よばれかた「%s」が追加された！";
 "missionreward_03_07"	= "%sを%dpt手に入れた！";
-"missionreward_03_08"    = "%sを %dコ手に入れた！";
-"missionreward_04_01"	= "を達成しました！";
+"missionreward_03_08"    = "You received %d %s!";
+"missionreward_04_01"	= " achieved!";
 
 
 "start_ui_l5id_connect02_01" = "Data Link";
@@ -445,11 +445,10 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "marbles_pause_retry2"  = "Do you want to quit?";
 
 "drive_result_receipt_title01" = "Special Reward";
-"drive_result_receipt_desc01"  = You have claimed all available rewards!";
+"drive_result_receipt_desc01"  = "You have claimed all available rewards!";
 
-"play_error_for_forbidden_dialog_title" = "Clear the play conditions";
+"play_error_for_forbidden_dialog_title" = "Please accept the terms and conditions.";
 
-"play_error_for_forbidden_on_kind_dialog_title" = "プレイ条件にあわない妖怪がてもちに含まれているよ！";
+"play_error_for_forbidden_on_kind_dialog_title" = "You have to accept the terms and conditions to be able to play Yo-kai Watch!";
 
 "event_hpatk_new_youkai"      = "The Seven Gods of Fortune have descended!";
-
