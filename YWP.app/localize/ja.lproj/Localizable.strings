@@ -156,7 +156,7 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "playerregist_02_03"	= "Now, Honored\n%s,\nI have\nsomething\nrather special\nto give you.";
 "playerregist_03_01"	= "Hmm... I can't\nhelp feeling\nI've heard that\nname\nsomewhere\nbefore…";
 "playerregist_03_02"	= "Are you sure\nthat's your\nreal name?";
-"playerregist_04_01"	= "The <R>Yo-kai\nWatch</R> will allow\nyou to see my\nfellow <R>Yo-kai</R>!";
+"playerregist_04_01"	= "The <R>Yo-kai\nWatch</R>\nwill allow\nyou to see my\nfellow <R>Yo-kai</R>!";
 "playerregist_04_02"	= "I think we'd\nbetter look\naround for\nsome, don't\nyou?";
 "playerregist_05_01"	= "Yo-kai Watch received!";
 "playerregist_06_01"	= "%s used theYo-kai Watch...";
@@ -171,7 +171,7 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "playerregist_name_01"	= "Nate";
 "playerregist_name_02"	= "Katie";
 "playerregist_input01"	= "Enter Text Here";
-"playerregist_input02_01"="WARNING: Please do not use your\nreal name.";
+"playerregist_input02_01"="WARNING: Don’t use your real name.";
 "playerregist_input02_02"="Once you pick a name,\nyou won’t be able to change it.";
 "playerregist_conf01"	= "NOTE: You can change your icon later\nin the settings.";
 "playerregist_conf02" = "Icon";
@@ -291,6 +291,7 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "tutorial_sangoku_atk_04"               = "Let's\nretaliate,\ngood luck!";
 
 "itemlistview_01"		= "Use on who? (%d Remaining)";
+"itemlistview_02"       = "Use on who?";
 
 "presentbox_01"			= "No messages.";
 "presentbox_02_01"		= "Deleted after 30 days.";
@@ -452,3 +453,4 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "play_error_for_forbidden_on_kind_dialog_title" = "The Yo-kai on your team don't meet the conditions!";
 
 "event_hpatk_new_youkai"      = "The Seven Gods of Fortune have descended!";
+
