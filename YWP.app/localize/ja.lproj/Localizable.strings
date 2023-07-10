@@ -160,11 +160,11 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "playerregist_04_02"	= "I think we'd\nbetter look\naround for\nsome, don't\nyou?";
 "playerregist_05_01"	= "Yo-kai Watch received!";
 "playerregist_06_01"	= "%s used theYo-kai Watch...";
-"playerregist_06_01_01"	= "%s%sは";
-"playerregist_06_01_02"	= "妖怪ウォッチを使ってみた。";
+"playerregist_06_01_01"	= "%s%s is";
+"playerregist_06_01_02"	= "Attempted to use the Yo-kai Watch.";
 "playerregist_06_02"	= "A Yo-kai appeared briefly, but it ran away!";
-"playerregist_06_02_01"	= "一瞬　妖怪が見えたが";
-"playerregist_06_02_02"	= "どこかに行ってしまった。";
+"playerregist_06_02_01"	= "For a moment there, a Yo-kai had appeared, but…";
+"playerregist_06_02_02"	= "It ran off somewhere.";
 "playerregist_07_01"	= "It went that\nway! Toward the\nresidential\narea! After it!";
 "playerregist_08_01"	= "%s... Hmm...";
 "playerregist_08_02"	= "I think you'd\nbetter choose\nanother name,\ndon't you\nthink?";
@@ -180,12 +180,12 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 "playerregist_conf04_02" = "on the settings screen.";
 
 
-"tutorial_menu_watch_map_01" = "熱いガッツを　もっているな！";
-"tutorial_menu_watch_map_02" = "そんな　お前に<R>いい情報</R>を教えてやるぜ！";
+"tutorial_menu_watch_map_01" = "You’ve got some burning courage!";
+"tutorial_menu_watch_map_02" = "Well then, I’ll give you some<R>useful info</R>!";
 
-"tutorial_menu_kurooni2_map_01" = "お前は強い！　ほうびに黒鬼の妖怪メダルを送ってやるぞ！";
+"tutorial_menu_kurooni2_map_01" = "You sure are strong! As a reward, have this Orcanos Yo-kai Medal!";
 
-"tutorial_menu_watch_01" = "ええっと…そうそう。　ここでは";
+"tutorial_menu_watch_01" = "Hmm… Yeah, sure. Here it is.";
 "tutorial_menu_watch_02" = "<R>パーツ</R>を集めて　あたらしい<R>妖怪ウォッチ</R>を作れるんです！";
 "tutorial_menu_watch_03" = "Make a Yo-kai Watch は<R>つけかえ</R>できるみたいですね！";
 
