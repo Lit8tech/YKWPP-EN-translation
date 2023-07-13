@@ -88,7 +88,7 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 
 
 "mission_daily_title"   = "Daily";
-"mission_normal_title"  = “General";
+"mission_normal_title"  = "General";
 "mission_event_title"   = "Event";
 "mission_none_text01"   = "There are no missions currently available.";
 "mission_none_text02"   = "Please wait for an event to start!";
@@ -452,5 +452,6 @@ Translated by SplitPSoup, Eclip5e and 101Leafy.
 
 "play_error_for_forbidden_on_kind_dialog_title" = "The Yo-kai on your team don't meet the conditions!";
 
-"event_hpatk_new_youkai"      = "The Seven Gods of Fortune have descended!";
+"event_hpatk_new_youkai"      = "The Seven Gods of Fortune have descended!"
+
 
