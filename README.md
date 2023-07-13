@@ -4,7 +4,7 @@
 An English translation for the popular Japanese mobile game, Yo-kai Watch Puni Puni.
 ![Amazing logo made by Math_kk](https://i.imgur.com/39kA5rB.png)
 
-## How do I Install This??
+## How do I Install This?
 
 For Android, installing the mod is a matter of uninstalling Puni from your phone and grabbing the [latest modded apk from our site](https://www.punitranslation.com/downloads/android).
 
@@ -26,6 +26,8 @@ Komazura/SuperTavor (Android developer, non-root developer, encryption decrypter
 Math-kk (Image translator)
 
 Eclip5e (Text translator, encryption decrypter)
+
+Redlight (Text translator)
 
 Split-PS-Soup (left, former text translator)
 
