@@ -27,9 +27,13 @@ Math-kk (Image translator)
 
 Eclip5e (Text translator, encryption decrypter)
 
+Darkcraft (encryption decrypter)
+
 Redlight (Text translator)
+
+101Leafy (text translator)
 
 Split-PS-Soup (left, former text translator)
 
-101Leafy (left, former text translator)
+Shuri-ken (left, former text translator)
 
