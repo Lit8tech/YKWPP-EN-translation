@@ -6,7 +6,7 @@ An translation project for the iOS version of the popular Japanese mobile game, 
 
 ## How do I Install This?
 
-The mod is still in beta, and only works with jailbroken devices at the moment. Grab the latest beta version by cloning the source code.
+The mod is still in beta, and only works with jailbroken devices at the moment. Find the latest install instructions on our website at https://sites.google.com/view/puni-puni-translation/how-to-install-beta 
 
 # Made With 💙 by:
 
@@ -22,7 +22,7 @@ Redlight (Text translator)
 
 101Leafy (Text translator)
 
-Woganog (Left, former Lead android developer, former wibble wobble asset porter)
+Woganog (Left, former Lead android developer, wibble wobble asset porter)
 
 Komazura/SuperTavor (Left, former non-root for Android developer, former encryption decrypter, former Appguard bypasser)
 
