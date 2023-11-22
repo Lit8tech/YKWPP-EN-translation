@@ -30,8 +30,6 @@ Eclip5e (Text translator, encryption cracker)
 
 Redlight (Text translator)
 
-101Leafy (Text translator)
-
 Darkcraft (Fired, former encryption cracker)
 
 Pecador 29 (Fired, former graphic designer)
