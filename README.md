@@ -1,34 +1,39 @@
 
-# Yo-Kai Watch Puni Puni English Translation 
+# Yo-kai Watch Puni Puni English Translation 
 
-An translation project for the iOS version of the popular Japanese mobile game, Yo-kai Watch Puni Puni.
+An translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.
 ![Amazing logo made by Math_kk](https://i.imgur.com/39kA5rB.png)
 
 ## How do I Install This?
+Note! We only make the actual mod, not the crack that applies the mod
 
-The mod is still in beta, and only works with jailbroken devices at the moment. Find the latest install instructions on our website at https://sites.google.com/view/puni-puni-translation/how-to-install-beta 
+### For iOS
+The only method currently available is the CMD legacy and only works with jailbroken devices. To install Simply open a terminal to your jailbroken iDevice and run this command (also make sure that you have root privileges):
+rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches/movie && rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches/image && rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches/skill && rm -r /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches/ywp_cud && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/AppLovinSDKResources.bundle && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/PAGAdSDK.bundle && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/image && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/localize && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/movie && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/sound && rm -r /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app/youkai && git clone https://github.com/Lit8tech/puni-puni-EN-translation.git && cd puni-puni-EN-translation && mv movie /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches && mv image /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches && mv skill /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches && mv ywp_cud /var/mobile/Containers/Data/Application/7F760EBB-DE5B-4F38-A138-279EF81201AC/Library/Caches && cd YWP.app && mv AppLovinSDKResources.bundle /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app && mv PAGAdSDK.bundle /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app && mv image /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app && mv localize /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app && mv movie /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app && mv sound /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app && mv youkai /var/containers/Bundle/Application/6A9B3616-2B61-4E7A-8C6D-54B539F53217/YWP.app
+If you want updates on a soon-to-release Jailed version using an app that is in the works called PuniCracker join the Discord at https://discord.gg/2GdhdduCzT
+
+### For Android
+For the Android version, Komazura (AKA Supertavor, a former developer for the shut down legacy Puni Translation Project) and his team at Yo-Droid have made a method for Android that is completely rootless (sometimes reffered to as Puni Translation evolved), using Prinjector and AppGuardCrack. To install it simply join their Discord server (https://discord.gg/r4B4WVyBJU) and go to the releases channel (https://discord.com/channels/1137835260906844202/1143807897734754305) to find the newest update.
 
 # Made With 💙 by:
 
-Lit 8 (Creator, owner, former lead android developer, wibble wobble text porter, lead iOS developer, jailed iOS developer)
+Lit 8 (Creator and current maintainer, PuniCracker method developer)
 
-RSM (Former Appguard bypasser, jailed iOS helper)
+Math-kk (Graphic designer)
 
-Math-kk (Image translator)
+Komazura/SuperTavor (AGc and Prinjector method developer, former encryption cracker)
 
-Eclip5e (Text translator, encryption decrypter)
+Woganog (Android method developer, formerly ported wibwob assets to Puni)
+
+Eclip5e (Text translator, encryption cracker)
 
 Redlight (Text translator)
 
 101Leafy (Text translator)
 
-Woganog (Left, former Lead android developer, wibble wobble asset porter)
+Darkcraft (Fired, former encryption cracker)
 
-Komazura/SuperTavor (Left, former non-root for Android developer, former encryption decrypter, former Appguard bypasser)
-
-Darkcraft (Fired, former encryption decrypter)
-
-Pecador 29 (Fired, former image translator)
+Pecador 29 (Fired, former graphic designer)
 
 Split-PS-Soup (Left, former text translator)
 
