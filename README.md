@@ -1,7 +1,7 @@
 
 # Yo-kai Watch Puni Puni English Translation 
 
-## An translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.
+## A translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.
 ![Amazing logo made by Math_kk](https://i.imgur.com/39kA5rB.png)
 
 ## How do I Install This?
