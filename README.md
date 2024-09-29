@@ -1,15 +1,17 @@
 
-# Yo-kai Watch Puni Puni English Translation 
-## A translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.
+# Yo-kai Watch Puni Puni English Translation Revived
+## A revival translation project for the the popular Japanese mobile game, Yo-kai Watch Puni Puni.
 ### Note! We only make the actual translation, not the crack that applies the mod.
 ![Amazing logo made by Math_kk](https://i.imgur.com/39kA5rB.png)
+
+## Join the Discord for more [updates](
 
 ## How do I Install The translation?
 
 ### For iOS
 **# Download Instructions
-## Note: the mod is iOS only and will stay this way**
-## Note: Before doing any of this you need to make sure you have Puni installed and the data download downloaded. If you do not know how to get Puni, I recommend watching [this video](https://www.youtube.com/watch?v=7ubJk8XewFw)
+### Note: the mod is iOS only and will stay this way**
+### Note: Before doing any of this you need to make sure you have Puni installed and the data download downloaded. If you do not know how to get Puni, I recommend watching [this video](https://www.youtube.com/watch?v=7ubJk8XewFw)
 
 Find a way how to sideload an ipa onto your device, I recommend [Sidestore](https://sidestore.io/#get-started), but any sideloading tool should work
 
@@ -31,26 +33,20 @@ Once installing is done for all of them, click apply, as mentioned earlier, make
 Once it says tweaks have been successfully applied you can press reboot and everything will be done! Puni will be translated
 
 ### For Android
-For the Android version, Komazura (AKA Supertavor, a former developer for the shut down legacy Puni Translation Project) and his team at Yo-Droid have made a method for Android that is completely rootless (sometimes reffered to as Puni Translation evolved), using Prinjector and AppGuardCrack. To install it simply join their [Discord server](https://discord.gg/r4B4WVyBJU) and go to the [releases channel](https://discord.com/channels/1137835260906844202/1143807897734754305) to find the newest update.
+Currently there is no version for Android, but a cool team is working on reviving Yo-kai Watch Wibble Wobble on Android, so if you interested please join their [Discord server](https://discord.gg/r4B4WVyBJU)
 
 # Made With 💙 by:
 
 Lit 8 (Creator and current maintainer, PuniCracker method developer)
 
+Lrdanow (Creator of PureKFD, the tool used currently for the iOS version
+
 Math-kk (Graphic designer)
 
-Komazura/SuperTavor (AGc and Prinjector method developer, former encryption cracker)
+Komazura/SuperTavor (Former Android developer)
 
-Woganog (Former Android method developer (ported wibwob assets to Puni, figured out how the root files work)
+Woganog (Former Android developer)
 
-Eclip5e (Text translator, encryption cracker)
+Eclip5e (Text translator)
 
 Redlight (Text translator)
-
-Darkcraft (Fired, former encryption cracker)
-
-Pecador 29 (Fired, former graphic designer)
-
-Split-PS-Soup (Left, former text translator)
-
-Shuri-ken (Left, former text translator)
